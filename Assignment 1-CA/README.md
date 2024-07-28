@@ -2,10 +2,10 @@ Output:
 ![image](https://github.com/user-attachments/assets/3801feb4-dae5-402a-b1a4-ba791154e6c4)
 
 Commands used:
-g++ -pg -o factorial factorial.cpp
-./fibonacci
-gprof ./factorial gmon.out > analysis.txt
-less analysis.txt
+1. g++ -pg -o factorial factorial.cpp
+2. ./fibonacci
+3. gprof ./factorial gmon.out > analysis.txt
+4. less analysis.txt
 
 Analysis:
 
